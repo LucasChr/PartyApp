@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Party App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="NOME_pessoa">Nome :</string>
+    <string name="nome_pessoa">nome</string>
+    <string name="RG_pessoa">RG:</string>
+    <string name="rg_pessoa">rg</string>
+    <string name="CPF_pessoa">CPF:</string>
+    <string name="cpf_pessoa">cpf</string>
+</resources>
