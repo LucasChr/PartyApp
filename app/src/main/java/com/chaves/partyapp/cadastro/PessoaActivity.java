@@ -1,4 +1,4 @@
-package com.chaves.partyapp.Cadastro;
+package com.chaves.partyapp.cadastro;
 
 import android.content.Intent;
 import android.graphics.Bitmap;

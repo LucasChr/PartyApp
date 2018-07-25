@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.chaves.partyapp.Cadastro.PessoaListFragment">
+    tools:context="com.chaves.partyapp.cadastro.PessoaListFragment">
 
     <ListView
         android:id="@+id/fragment_pessoas_list_listview"

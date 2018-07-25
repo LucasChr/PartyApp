@@ -1,4 +1,4 @@
-package com.chaves.partyapp.Principal;
+package com.chaves.partyapp.principal;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

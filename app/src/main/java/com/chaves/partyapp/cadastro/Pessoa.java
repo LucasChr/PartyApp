@@ -1,4 +1,4 @@
-package com.chaves.partyapp.Cadastro;
+package com.chaves.partyapp.cadastro;
 
 public class Pessoa {
 
